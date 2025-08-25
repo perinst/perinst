@@ -13,6 +13,11 @@ Welcome to my GitHub! I'm a passionate developer who loves building scalable web
 - **EXE** – A React Native app that analyzes colors in real time using the device camera.  
   [exe](https://github.com/perinst/exe)
 
+## 🌍 Open Source Contributions
+
+- 🛠️ **OpenCut** – Contributor to [OpenCut](https://github.com/OpenCut), an open-source project focused on [brief description of what OpenCut does—e.g., "automated video editing" or "AI-powered media processing"].  
+  I’ve contributed to [specific areas like update UI/UX,feature development, etc.],.  
+  
 ## 🧠 Skills & Technologies
 
 - **Languages**: TypeScript, Go, 
@@ -22,11 +27,7 @@ Welcome to my GitHub! I'm a passionate developer who loves building scalable web
 - **Tools**: Expo, TailwindCSS (NativeWind), PostgreSQL, Docker  
 - **Others**: REST APIs, WebSockets, Git, CI/CD, Agile
 - 
-## 🌍 Open Source Contributions
 
-- 🛠️ **OpenCut** – Contributor to [OpenCut](https://github.com/OpenCut), an open-source project focused on [brief description of what OpenCut does—e.g., "automated video editing" or "AI-powered media processing"].  
-  I’ve contributed to [specific areas like update UI/UX,feature development, etc.],.  
-  
 ## 📈 Highlights
 
 - 🔥 800+ contributions in the past year  
