@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm a passionate developer who loves building scalable web
 ## 📫 Let's Connect
 
 - Email: phanminhvinh30102003@gmail.com  
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com) *(replace with your actual link)*  
+
 
 ---
 
