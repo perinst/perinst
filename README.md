@@ -22,7 +22,11 @@ Welcome to my GitHub! I'm a passionate developer who loves building scalable web
 - **Tools**: Expo, TailwindCSS (NativeWind), PostgreSQL, Docker  
 - **Others**: REST APIs, WebSockets, Git, CI/CD, Agile
 - 
+## 🌍 Open Source Contributions
 
+- 🛠️ **OpenCut** – Contributor to [OpenCut](https://github.com/OpenCut), an open-source project focused on [brief description of what OpenCut does—e.g., "automated video editing" or "AI-powered media processing"].  
+  I’ve contributed to [specific areas like update UI/UX,feature development, etc.],.  
+  
 ## 📈 Highlights
 
 - 🔥 800+ contributions in the past year  
@@ -33,7 +37,6 @@ Welcome to my GitHub! I'm a passionate developer who loves building scalable web
 
 - Email: phanminhvinh30102003@gmail.com  
 - LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com) *(replace with your actual link)*  
-- Portfolio: *(add if available)*
 
 ---
 
