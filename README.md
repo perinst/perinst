@@ -1,4 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Vinh — Full-Stack Developer | TypeScript & Golang Enthusiast
+
+Welcome to my GitHub! I'm a passionate developer who loves building scalable web services, intuitive user interfaces, and tools that empower learning and automation.
+
+## 🚀 What I'm Working On
+
+- **Dozu** – A personalized learning platform that helps users master topics through multiple learning methods.  
+  [dozu-ui-service](https://github.com/perinst/dozu-ui-service) | [dozu-api-service](https://github.com/perinst/dozu-api-service)
+
+- **HyperSocket** – A minimal WebSocket server written in Go, designed for clarity and performance.  
+  [HyperSocket](https://github.com/perinst/HyperSocket)
+
+- **EXE** – A React Native app that analyzes colors in real time using the device camera.  
+  [exe](https://github.com/perinst/exe)
+
+## 🧠 Skills & Technologies
+
+- **Languages**: TypeScript, Go, Python, JavaScript  
+- **Frameworks**: React, React Native, Express, Gin  
+- **Tools**: Expo, TailwindCSS (NativeWind), PostgreSQL, Docker  
+- **Others**: REST APIs, WebSockets, Git, CI/CD, Agile
+
+## 📈 Highlights
+
+- 🔥 800+ contributions in the past year  
+- 🛠️ 14 repositories including open-source tools and personal projects  
+- 🧪 Active on [LeetCode](https://leetcode.com/u/pity3010/) solving algorithm challenges
+
+## 📫 Let's Connect
+
+- Email: phanminhvinh30102003@gmail.com  
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com) *(replace with your actual link)*  
+- Portfolio: *(add if available)*
+
+---
+
+Thanks for stopping by! I'm always open to collaboration, feedback, and new opportunities.
+
 
 <!--
 **perinst/perinst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
