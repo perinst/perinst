@@ -20,13 +20,11 @@ Welcome to my GitHub! I'm a passionate developer who loves building scalable web
   
 ## 🧠 Skills & Technologies
 
-- **Languages**: TypeScript, Go, 
-- **Frameworks**: React, React Native, Express,
-- **Database**: Postgresql, Redis
-- **Cloud**: AWS
-- **Tools**: Expo, TailwindCSS (NativeWind), PostgreSQL, Docker  
-- **Others**: REST APIs, WebSockets, Git, CI/CD, Agile
-- 
+- **Frontend**: React, React Native, Expo, Tailwind CSS (NativeWind)  
+- **Backend**: Go, TypeScript (Node.js/Express), REST APIs, WebSockets  
+- **Databases**: PostgreSQL, Redis  
+- **DevOps / Cloud**: AWS, Docker, CI/CD  
+- **Collaboration & Workflow**: Git, Agile  
 
 ## 📈 Highlights
 
