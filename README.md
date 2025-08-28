@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm a passionate developer who loves building scalable web
 ## 📈 Highlights
 
 - 🔥 800+ contributions in the past year  
-- 🛠️ 14 repositories including open-source tools and personal projects  
+- 🛠️ repositories including open-source tools and team/personal projects  
 - 🧪 Active on [LeetCode](https://leetcode.com/u/pity3010/) solving algorithm challenges
 
 ## 📫 Let's Connect
