@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate developer who loves building scalable web
 
 ## 🌍 Open Source Contributions
 
-- 🛠️ **OpenCut** – Contributor to [OpenCut]([https://github.com/OpenCut](https://github.com/OpenCut-app/OpenCut)), an open-source project focused on free tool edit video alternative capcut
+- 🛠️ **OpenCut** – Contributor to [OpenCut](https://github.com/OpenCut-app/OpenCut), an open-source project focused on free tool edit video alternative capcut
   
 ## 🧠 Skills & Technologies
 
