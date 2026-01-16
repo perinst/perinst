@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Vinh — Full-Stack Developer | TypeScript & Golang Enthusiast
+# 👋 Hi, I'm Per (PT) — A guy who enjoys tinkering with lines of code
 
-Welcome to my GitHub! I'm a passionate developer who loves building scalable web services, intuitive user interfaces, and tools that empower learning and automation.
-
-## 🚀 What I'm Working On
+##  What I'm Working On
 
 - **Dozu** – A personalized learning platform that helps users master topics through multiple learning methods.  
   [dozu-ui-service](https://github.com/perinst/dozu-ui-service) | [dozu-api-service](https://github.com/perinst/dozu-api-service)
@@ -15,9 +13,9 @@ Welcome to my GitHub! I'm a passionate developer who loves building scalable web
 
 ## 🌍 Open Source Contributions
 
-- 🛠️ **OpenCut** – Contributor to [OpenCut](https://github.com/OpenCut-app/OpenCut), an open-source project focused on free tool edit video alternative capcut
+-  **OpenCut** – Contributor to [OpenCut](https://github.com/OpenCut-app/OpenCut), an open-source project focused on free tool edit video alternative capcut
   
-## 🧠 Skills & Technologies
+##  Skills & Technologies
 
 - **Frontend**: React, NextJS, React Native
 - **Backend**: Go, TypeScript (Node.js/Express), REST APIs, WebSockets, BullMQ(Message Queue)
@@ -25,16 +23,13 @@ Welcome to my GitHub! I'm a passionate developer who loves building scalable web
 - **DevOps / Cloud**: EC2(AWS), Lamba(AWS), S3(AWS), Docker, CI/CD (Github Action ) 
 - **Collaboration & Workflow**: Git, Agile  
 
-## 📈 Highlights
+## Highlights
 
-- 🔥 800+ contributions in the past year  
-- 🛠️ repositories including open-source tools and team/personal projects  
-- 🧪 Active on [LeetCode](https://leetcode.com/u/pity3010/) solving algorithm challenges
+-  800+ contributions in the past year  
+-  repositories including open-source tools and team/personal projects  
+-  Active on [LeetCode](https://leetcode.com/u/pity3010/) solving algorithm challenges
 
-## 📫 Let's Connect
-
-- Email: phanminhvinh30102003@gmail.com  
-
+## Email: phanminhvinh30102003@gmail.com 
 
 ---
 
