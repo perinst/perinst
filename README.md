@@ -15,13 +15,6 @@
 
 -  **OpenCut** – Contributor to [OpenCut](https://github.com/OpenCut-app/OpenCut), an open-source project focused on free tool edit video alternative capcut
   
-##  Skills & Technologies
-
-- **Frontend**: React, NextJS, React Native
-- **Backend**: Go, TypeScript (Node.js/Express), REST APIs, WebSockets, BullMQ(Message Queue)
-- **Databases**: PostgreSQL, Redis  
-- **DevOps / Cloud**: EC2(AWS), Lamba(AWS), S3(AWS), Docker, CI/CD (Github Action ) 
-- **Collaboration & Workflow**: Git, Agile  
 
 ## Highlights
 
