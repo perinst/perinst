@@ -23,7 +23,7 @@
 
 ---
 
-Thanks for stopping by! I'm always open to collaboration, feedback, and new opportunities.
+Thanks for stopping by!
 
 
 <!--
