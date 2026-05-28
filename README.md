@@ -21,8 +21,6 @@
 -  repositories including open-source tools and team/personal projects  
 -  Active on [LeetCode](https://leetcode.com/u/pity3010/) solving algorithm challenges
 
-## Email: phanminhvinh30102003@gmail.com 
-
 ---
 
 Thanks for stopping by! I'm always open to collaboration, feedback, and new opportunities.
