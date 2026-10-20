@@ -11,11 +11,6 @@
 - **EXE** – A React Native app that analyzes colors in real time using the device camera.  
   [exe](https://github.com/perinst/exe)
 
-## 🌍 Open Source Contributions
-
--  **OpenCut** – Contributor to [OpenCut](https://github.com/OpenCut-app/OpenCut), an open-source project focused on free tool edit video alternative capcut
--  **OpenClaw** – Contributor to [OpenClaw][(https://github.com/openclaw/openclaw]
-## Highlights
 
 -  800+ contributions in the past year  
 -  repositories including open-source tools and team/personal projects  
