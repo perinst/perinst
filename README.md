@@ -1,22 +1,5 @@
 # 👋 Hi, I'm Per (PT) — A guy who enjoys tinkering with lines of code
 
-##  What I'm Working On
-
-- **Dozu** – A personalized learning platform that helps users master topics through multiple learning methods.  
-  [dozu-ui-service](https://github.com/perinst/dozu-ui-service) | [dozu-api-service](https://github.com/perinst/dozu-api-service)
-
-- **HyperSocket** – A minimal WebSocket server written in Go, designed for clarity and performance.  
-  [HyperSocket](https://github.com/perinst/HyperSocket)
-
-- **EXE** – A React Native app that analyzes colors in real time using the device camera.  
-  [exe](https://github.com/perinst/exe)
-
-
--  800+ contributions in the past year  
--  repositories including open-source tools and team/personal projects  
--  Active on [LeetCode](https://leetcode.com/u/pity3010/) solving algorithm challenges
-
----
 
 Thanks for stopping by!
 
